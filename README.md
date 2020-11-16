@@ -1,1 +1,1 @@
-# Google-Map-scrool-zooming-off
+# Google-Map-scroll-zooming-off
